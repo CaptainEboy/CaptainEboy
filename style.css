@@ -1,0 +1,473 @@
+/* Created by Captain Eboy */
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: poppins;
+}
+
+
+
+body {
+    background-color: rgb(230, 230, 230);
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.container {
+    width: 100vw;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+
+
+.nameSect {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(20, 20, 20);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-transform: uppercase;
+    z-index: 100;
+}
+
+.nameSect .name {
+    font-size: 6vw;
+    font-weight: 700;
+    font-family: poppins;
+}
+
+/*.nameSect .tag {*/
+/*    background: rgb(240, 50, 30);*/
+/*    font-size: 1.7vw;*/
+/*    transition: 0.3s;*/
+/*    font-weight: 600;*/
+/*    font-family: poppins;*/
+/*    margin-top: -10px;*/
+/*    padding: 5px 13px 5px 13px;*/
+/*    border-radius: 4vw;*/
+/*    display: none;*/
+/*}*/
+
+
+
+
+.join {
+    height: 10vh;
+}
+
+.about {
+    min-height: 90vh;
+    background: rgb(20, 20, 20);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.about .profile{
+    margin: 10px 0 20px 0;
+    width: 40vw;
+    height: 40vw;
+    background: url("https://i.ibb.co/nPRFxZ0/2754583-512.png");
+    background-position: center;
+    background-size: contain;
+}
+
+.about .content {
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 3.5vmin;
+    word-spacing: 0px;
+    max-width: 80vw;
+    text-align: left;
+}
+
+.about .content p{
+    margin-bottom: 8px;
+}
+
+
+
+.scrollDownSect {
+    position: absolute;
+    height: 80px;
+    width: 100vw;
+    bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.scrollDownSect span{
+    animation: an 1s infinite;
+    width: 3vw;
+    height: 3vw;
+    border-radius: 50%;
+    background-color: white;
+}
+
+
+@keyframes an {
+    0%{
+        opacity: 0;
+        transform: translateY(200%);
+    }
+    
+    20%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+        transform: translateY(-200%);
+    }
+}
+
+p {
+    font-size: 3.4vw;
+    margin-top: 18px;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 6.2vw;
+    line-height: 35px;
+}
+
+
+
+
+.treeSect {
+    min-height: max(30vh, 220px);
+    background-color: rgb(255, 211, 94);
+    padding: 30px 0 30px 0;
+    display: flex;
+}
+
+.treeSect .svgSect {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.treeSect .svgSect svg {
+    min-height: 80px;
+    min-width: 80px;
+    height: calc(30vh - 20px);
+    width: calc(30vh - 20px);
+}
+
+.treeSect .content {
+    width: 100%;
+    padding: 16px 25px 0 10px;
+    font-family: poppins;
+}
+
+
+
+.treeSect .content h2 {
+    font-family: poppins;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(20, 20, 20);
+}
+
+.treeSect .content p {
+    font-family: roboto;
+    color: rgb(20, 20, 20);
+    max-width: 40ch;
+}
+
+.open{
+    padding: 4px 9px;
+    font-size: 5vmin;
+    font-family: poppins;
+    text-transform: uppercase;
+    outline: none;
+    transition: 0.1s;
+    transform: none;
+}
+
+.open:active {
+    transform: scale(0.9);
+}
+
+
+.treeBtn {
+    background: rgb(48, 188, 237);
+    margin-top: 18px;
+    margin-bottom: 18px;
+    border-radius: 14px;
+    border: none;
+    font-weight: 600;
+    font-size: 4.4vmin;
+}
+
+
+
+
+
+
+
+
+
+
+.calcSect {
+    min-height: max(30vh, 220px);
+    background-color: rgb(80, 120, 255);
+    display: flex;
+    padding: 30px 30px 30px 30px;
+}
+
+
+.calcSect .content {
+    font-family: poppins;
+    width: 70vw;
+    height: 100%;
+}
+
+
+
+.calcSect .content h2 {
+    font-family: poppins;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(20, 20, 20);
+}
+
+.calcSect .content p {
+    font-family: roboto;
+    color: rgb(20, 20, 20);
+    max-width: 20;
+}
+
+.calcSect .imgSect {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.calcSect .imgSect img {
+    width: 25vw;
+    border-radius: 10px;
+}
+
+.calcBtn {
+    background: rgb(120, 255, 100);
+    color: rgb(20, 20, 20);
+    margin-top: 18px;
+    margin-bottom: 18px;
+    border-radius: 14px;
+    border: none;
+    font-weight: 600;
+    font-size: 4.4vmin;
+}
+
+b {
+  font-weight: 800;
+}
+
+.between {
+    min-height: 30vh;
+    width: 100vw;
+    padding: 40px 10px 30px 35px;
+    background-color: rgb(30, 30, 30);
+}
+
+.between .content {
+    max-width: 90vw;
+}
+
+
+.between .content h2{
+    max-width: 80vw;
+    font-size: 8vmin;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.loginSect {
+    min-height: max(30vh, 220px);
+    background-color: rgb(80, 120, 255);
+    padding: 30px 0 30px 0;
+    display: flex;
+}
+
+
+.loginSect .imgSect {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginSect .imgSect img {
+    width: 40vw;
+    border-radius: 10px;
+}
+
+
+
+
+
+.loginSect .content {
+    width: 50vw;
+    padding: 0 20px 0 0;
+    font-family: poppins;
+    height: 100%;
+}
+
+
+
+.loginSect .content h2 {
+    font-family: poppins;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: rgb(20, 20, 20);
+}
+
+.loginSect .content p {
+    font-family: roboto;
+    color: rgb(20, 20, 20);
+    max-width: 90%;
+}
+
+
+
+
+
+
+
+
+
+.loginBtn {
+    background: rgb(240, 100, 100);
+    color: rgb(20, 20, 20);
+    margin-top: 18px;
+    margin-bottom: 18px;
+    border-radius: 14px;
+    border: none;
+    font-weight: 600;
+    font-size: 4.4vmin;
+}
+
+
+
+
+.contact {
+    min-height: 50vh;
+    width: 100vw;
+    background: rgb(20, 20, 20);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px 0 70px 0;
+}
+
+.contact .icon{
+    margin-top: 10px;
+    height: 15vh;
+    width: 15vw;
+    margin-bottom: 10px;
+}
+
+.contact .icon svg{
+    height: 100%;
+    width: 100%;
+}
+
+.contact .content {
+    width: 100vw;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.contact .content h2{
+    font-size: 7.7vw;
+    margin-bottom: 4px;
+    font-family: poppins;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+.contact .content h5{
+    font-size: 2.9vw;
+    font-family: poppins;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+
+
+
+.contact .links {
+    margin: 10px 0 10px 0;
+    padding: 20px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    flex-wrap: wrap;
+}
+
+
+.contact .links a {
+    max-width: 10vw;
+    max-height: 10vw;
+}
+
+.contact .links a img {
+    width: 10vw;
+    height: 10vw;
+}
+
+
+
+footer {
+    min-height: 10vh;
+    background: rgb(10, 10, 10);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
