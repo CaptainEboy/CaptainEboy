@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Captain Eboy! 👋
+Hi, I'm **Captain Eboy!** 👋
 Fastest way to contact me:
+**mail me @  captaineboy@codebarrack.com.ng**
 
-mail me @
-captaineboy@codebarrack.com.ng
 
--##📋 Here are a few facts about me:
+- **📋 Here are a few facts about me:**
 
 -💻 I’m currently working on so many production & tech projects😅💖💖
 
@@ -28,7 +27,7 @@ captaineboy@codebarrack.com.ng
 
 -👯 I’m looking to collaborate with tech clubs in Universities, etc and Web3-related projects
 
--💼 I'm open to part-time & contract frontend web developer, php, server & IT roles/freelance projects.
+-💼 I'm open to part-time & contract frontend web development, php, server & IT roles/freelance projects.
 
 -No full-time job for now😅😅
 
@@ -37,18 +36,31 @@ captaineboy@codebarrack.com.ng
 -You can mail me @
 -captaineboy@codebarrack.com.ng
 
--🛠 Tools & Skills:
--Languages & Preprocessor
+- ***🛠 Tools & Skills:***
+
+
+- **Languages & Preprocessor**
+
 -HTML & CSS
+
 -JavaScript
+
 -Php
+
 -React
--Frameworks & Libraries
+
+- **Frameworks & Libraries**
+
 -Reactnative
+
 -Bootstrap
--Content Management Systems
+
+- **Content Management Systems**
+
 -Blogger
+
 -WordPress
+
 📚 Other resources:
 Personal Website
 Frontend Mentor Profile
