@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 Hi, I'm Captain Eboy! 👋
 Fastest way to contact me:
 
-Gmail mail captaineboy@codebarrack.com.ng
+mail me @
+captaineboy@codebarrack.com.ng
 
--📋 Here are a few facts about me:
+-##📋 Here are a few facts about me:
 
 -💻 I’m currently working on so many production & tech projects😅💖💖
 
