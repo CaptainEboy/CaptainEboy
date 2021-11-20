@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi, I'm **Captain Eboy!** 👋
 Fastest way to contact me:
-**mail me @  captaineboy@codebarrack.com.ng**
+**mail me @    captaineboy@codebarrack.com.ng**
 
 
 - **📋 Here are a few facts about me:**
