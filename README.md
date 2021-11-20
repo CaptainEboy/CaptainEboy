@@ -20,12 +20,19 @@ Fastest way to contact me:
 Gmail mail captaineboy@codebarrack.com.ng
 
 -📋 Here are a few facts about me:
+
 -💻 I’m currently working on so many production & tech projects😅💖💖
+
 -🌱 I’m currently learning C#
+
 -👯 I’m looking to collaborate with tech clubs in Universities, etc and Web3-related projects
+
 -💼 I'm open to part-time & contract frontend web developer, php, server & IT roles/freelance projects.
+
 -No full-time job for now😅😅
+
 -✉️ I'm very active on codebarrack social media platforms. I teach web development and speak in tech seminars. I love php, js & react native
+
 -You can mail me @
 -captaineboy@codebarrack.com.ng
 
