@@ -72,7 +72,6 @@ I'm very active on codebarrack social media platforms. I teach web development a
 
 
 
-## Connect w![proceesing](https://user-images.githubusercontent.com/63905637/145709473-cce3f0d4-79f6-4071-ba2b-1b6d03af5aa4.png)
-ith me
+## Connect with me
 
 - [@captaineboy](https://github.com/CaptainEboy)
