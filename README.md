@@ -63,6 +63,8 @@ I'm very active on codebarrack social media platforms. I teach web development a
 📫 Languages : JavaScript, React Native, HTML, CSS, PHP, Python, C#, jQuery, Processing
 ## Languages & Tools
 ![mysql (1)](https://user-images.githubusercontent.com/63905637/145709680-f174888e-1ec0-4392-bd37-136eba17a931.jpeg)
+![php](https://user-images.githubusercontent.com/63905637/145729836-2e07530d-0e2a-49ab-985f-3b6aafd411c8.png)
+
 ![git (1)](https://user-images.githubusercontent.com/63905637/145709681-200acf2c-6882-4968-adf8-6c609978dde6.jpeg)
 ![javascript (1)](https://user-images.githubusercontent.com/63905637/145709682-4640bd24-9a75-4cbf-a36f-fae5d964a465.png)
 ![css3](https://user-images.githubusercontent.com/63905637/145709684-a28ab475-dd68-4548-a4a5-63ca451ba805.jpeg)
@@ -71,7 +73,6 @@ I'm very active on codebarrack social media platforms. I teach web development a
 ![python](https://user-images.githubusercontent.com/63905637/145709448-f0149941-a2e1-402b-b763-cc3544a9a751.png)
 ![react](https://user-images.githubusercontent.com/63905637/145709450-fd1ec6ae-2803-4551-8b29-85a5ae8d6dd9.png)
 ![proceesing](https://user-images.githubusercontent.com/63905637/145709452-2df84f9c-2e27-4b15-83cf-20a045ddb1cd.png)
-![php](https://user-images.githubusercontent.com/63905637/145709453-96668abb-1fd6-4b1c-b348-7f1822d40679.png)
 
 
 
