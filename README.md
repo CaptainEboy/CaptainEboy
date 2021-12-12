@@ -62,6 +62,11 @@ I'm very active on codebarrack social media platforms. I teach web development a
 
 📫 Languages : JavaScript, React Native, HTML, CSS, PHP, Python, C#, jQuery, Processing
 ## Languages & Tools
+![mysql (1)](https://user-images.githubusercontent.com/63905637/145709680-f174888e-1ec0-4392-bd37-136eba17a931.jpeg)
+![git (1)](https://user-images.githubusercontent.com/63905637/145709681-200acf2c-6882-4968-adf8-6c609978dde6.jpeg)
+![javascript (1)](https://user-images.githubusercontent.com/63905637/145709682-4640bd24-9a75-4cbf-a36f-fae5d964a465.png)
+![css3](https://user-images.githubusercontent.com/63905637/145709684-a28ab475-dd68-4548-a4a5-63ca451ba805.jpeg)
+![pwa (1)](https://user-images.githubusercontent.com/63905637/145709686-23de0615-c0c2-4589-a1e5-971a64e29426.jpeg)
 
 ![django](https://user-images.githubusercontent.com/63905637/145709445-d72edf07-6774-4165-a263-723a143f6b94.png)
 ![python](https://user-images.githubusercontent.com/63905637/145709448-f0149941-a2e1-402b-b763-cc3544a9a751.png)
