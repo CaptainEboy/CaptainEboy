@@ -1,5 +1,3 @@
-
-
 <!--
 **CaptainEboy/CaptainEboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#![waving hand](https://user-images.githubusercontent.com/63905637/145709083-c519da18-2e88-4b83-91d5-0c9e3d3df87c.gif)
- Talented & Innovative Full-Stack Engineer
+![waving hand](https://user-images.githubusercontent.com/63905637/145709083-c519da18-2e88-4b83-91d5-0c9e3d3df87c.gif)
+ #Talented & Innovative Full-Stack Engineer
 ![My GitHub readme](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
 
 
