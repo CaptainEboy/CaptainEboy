@@ -64,6 +64,8 @@ I'm very active on codebarrack social media platforms. I teach web development a
 ## Languages & Tools
 ![mysql (1)](https://user-images.githubusercontent.com/63905637/145709680-f174888e-1ec0-4392-bd37-136eba17a931.jpeg)
 ![php](https://user-images.githubusercontent.com/63905637/145729836-2e07530d-0e2a-49ab-985f-3b6aafd411c8.png)
+![proceesing](https://user-images.githubusercontent.com/63905637/145729912-eb2ae651-52f1-4a37-a19f-0335c1e57621.png)
+![react](https://user-images.githubusercontent.com/63905637/145729934-c9e0a040-626a-4cfd-b683-df146ca492a8.png)
 
 ![git (1)](https://user-images.githubusercontent.com/63905637/145709681-200acf2c-6882-4968-adf8-6c609978dde6.jpeg)
 ![javascript (1)](https://user-images.githubusercontent.com/63905637/145709682-4640bd24-9a75-4cbf-a36f-fae5d964a465.png)
@@ -71,8 +73,6 @@ I'm very active on codebarrack social media platforms. I teach web development a
 ![pwa (1)](https://user-images.githubusercontent.com/63905637/145709686-23de0615-c0c2-4589-a1e5-971a64e29426.jpeg)
 ![django](https://user-images.githubusercontent.com/63905637/145709445-d72edf07-6774-4165-a263-723a143f6b94.png)
 ![python](https://user-images.githubusercontent.com/63905637/145709448-f0149941-a2e1-402b-b763-cc3544a9a751.png)
-![react](https://user-images.githubusercontent.com/63905637/145709450-fd1ec6ae-2803-4551-8b29-85a5ae8d6dd9.png)
-![proceesing](https://user-images.githubusercontent.com/63905637/145709452-2df84f9c-2e27-4b15-83cf-20a045ddb1cd.png)
 
 
 
