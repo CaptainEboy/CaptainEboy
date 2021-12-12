@@ -62,10 +62,17 @@ I'm very active on codebarrack social media platforms. I teach web development a
 
 📫 Languages : JavaScript, React Native, HTML, CSS, PHP, Python, C#, jQuery, Processing
 ## Languages & Tools
+![django](https://user-images.githubusercontent.com/63905637/145709445-d72edf07-6774-4165-a263-723a143f6b94.png)
+![python](https://user-images.githubusercontent.com/63905637/145709448-f0149941-a2e1-402b-b763-cc3544a9a751.png)
+![react](https://user-images.githubusercontent.com/63905637/145709450-fd1ec6ae-2803-4551-8b29-85a5ae8d6dd9.png)
+![proceesing](https://user-images.githubusercontent.com/63905637/145709452-2df84f9c-2e27-4b15-83cf-20a045ddb1cd.png)
+![php](https://user-images.githubusercontent.com/63905637/145709453-96668abb-1fd6-4b1c-b348-7f1822d40679.png)
+![javascript](https://user-images.githubusercontent.com/63905637/145709456-de2778a2-4290-48dd-a32d-5bd6685cdee1.png)
 
 
 
 
-## Connect with me
+## Connect w![proceesing](https://user-images.githubusercontent.com/63905637/145709473-cce3f0d4-79f6-4071-ba2b-1b6d03af5aa4.png)
+ith me
 
 - [@captaineboy](https://github.com/CaptainEboy)
