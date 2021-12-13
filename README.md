@@ -66,7 +66,6 @@ I'm very active on codebarrack social media platforms. I teach web development a
 ![php](https://user-images.githubusercontent.com/63905637/145729836-2e07530d-0e2a-49ab-985f-3b6aafd411c8.png)
 ![proceesing](https://user-images.githubusercontent.com/63905637/145729912-eb2ae651-52f1-4a37-a19f-0335c1e57621.png)
 ![react](https://user-images.githubusercontent.com/63905637/145729934-c9e0a040-626a-4cfd-b683-df146ca492a8.png)
-
 ![git (1)](https://user-images.githubusercontent.com/63905637/145709681-200acf2c-6882-4968-adf8-6c609978dde6.jpeg)
 ![javascript (1)](https://user-images.githubusercontent.com/63905637/145709682-4640bd24-9a75-4cbf-a36f-fae5d964a465.png)
 ![css3](https://user-images.githubusercontent.com/63905637/145709684-a28ab475-dd68-4548-a4a5-63ca451ba805.jpeg)
