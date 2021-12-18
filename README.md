@@ -32,15 +32,6 @@ When I am not coding, I am either eating, praying, reading, laughing or playing 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://captaineboy.github.io/CaptainEboy/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CaptainEboy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaptainEboy)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainEboy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainEboy)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 📋 Here are a few facts about me
 👩‍💻 I’m currently working on so many production & tech projects😅💖💖
