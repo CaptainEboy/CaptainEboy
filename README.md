@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ![My GitHub readme](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
 
 ![fullstack](https://user-images.githubusercontent.com/63905637/145709381-4bfadcb8-3b83-4253-a7de-66e768af7b6c.gif)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 ## 🚀 About Me
@@ -28,6 +29,7 @@ When I am not coding, I am either eating, praying, reading, laughing or playing 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://captaineboy.github.io/CaptainEboy/)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaptainEboy)](https://git.io/streak-stats)
 
 
 ## 📋 Here are a few facts about me
