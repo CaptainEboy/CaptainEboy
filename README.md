@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 # Talented & Innovative Full-Stack Engineer
 ![My GitHub readme](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
 
-## 😇 My Github Stats:
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://captaineboy.github.io/CaptainEboy/)
+
+## 😇 My Github Stats:
 [![trophy](https://github-profile-trophy.vercel.app/?username=CaptainEboy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaptainEboy&theme=onedark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainEboy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
