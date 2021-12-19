@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![profile view](https://user-images.githubusercontent.com/63905637/146649766-305de113-e2df-467a-9e72-d3e3ef0cb313.jpg)
 
 
 # Talented & Innovative Full-Stack Engineer
