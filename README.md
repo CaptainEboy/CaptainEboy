@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaptainEboy&theme=onedark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainEboy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainEboy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=CaptainEboy&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CaptainEboy&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🚀 About Me
 Hi, I'm Captain Eboy! 👋
