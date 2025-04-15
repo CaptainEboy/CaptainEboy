@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://captaineboy.github.io/CaptainEboy/)
+[![trophy](https://github-profile-trophy.vercel.app/?CaptainEboy=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 😇 My Github Stats:
 [![trophy](https://github-profile-trophy.vercel.app/?username=CaptainEboy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
