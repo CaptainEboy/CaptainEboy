@@ -20,8 +20,16 @@ Here are some ideas to get you started:
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://captaineboy.github.io/CaptainEboy/)
 
-## 😇 My Github Stats:
+
+## 🚀 About Me
+Hi, I'm Captain Eboy! 👋
+I'm a full stack developer...
+I love coding, innovating & making researches.
+When I am not coding, I am either eating, praying, reading, laughing or playing any one out of my vast collection of musical instruments 😅😅
 [![trophy](https://github-profile-trophy.vercel.app/?username=CaptainEboy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 😇 My Github Stats:
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaptainEboy&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainEboy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaptainEboy&theme=onedark)](https://git.io/streak-stats)
@@ -30,11 +38,7 @@ Here are some ideas to get you started:
 
 
 
-## 🚀 About Me
-Hi, I'm Captain Eboy! 👋
-I'm a full stack developer...
-I love coding, innovating & making researches.
-When I am not coding, I am either eating, praying, reading, laughing or playing any one out of my vast collection of musical instruments 😅😅
+
 
 
 ## 🔗 Links
