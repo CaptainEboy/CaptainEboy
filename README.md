@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=blue)](https://captaineboy.github.io/CaptainEboy/)
 
 ## 😇 My Github Stats:
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=CaptainEboy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaptainEboy&theme=onedark)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainEboy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainEboy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=CaptainEboy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaptainEboy&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
