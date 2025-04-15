@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=CaptainEboy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CaptainEboy&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaptainEboy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainEboy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaptainEboy&theme=onedark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainEboy&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
